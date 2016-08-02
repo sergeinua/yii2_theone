@@ -1,0 +1,4 @@
+.vagrant/
+.idea/
+vendor/
+the-one/node_modules/
